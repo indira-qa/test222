@@ -4,4 +4,6 @@ num3=30
 num4=40
 num5=50
 print(num1+num2)
+print(num5)
+
 
